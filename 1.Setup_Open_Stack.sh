@@ -132,3 +132,8 @@ Keystone is serving at http://3.29.56.223/identity/
 The default users are: admin and demo
 The password: StrongAdminSecret
 
+cd devstack/
+source openrc
+
+
+
